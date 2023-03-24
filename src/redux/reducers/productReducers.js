@@ -2,10 +2,6 @@ import { ActionTypes } from "../constants/action-types";
 
 const initialState = {
   products: [
-    {
-        product_id: 1111,
-        product_name: 'Apple Watch',
-    }
   ],
 };
 
